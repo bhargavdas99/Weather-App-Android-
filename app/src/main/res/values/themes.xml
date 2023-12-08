@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherAppGui" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/statusBarColor</item>
+    </style>
+
+    <style name="Theme.WeatherAppGui" parent="Base.Theme.WeatherAppGui" />
+</resources>
